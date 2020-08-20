@@ -8,4 +8,4 @@ So that I can organize and plan my business
 ```
 
 ## Demonstration of project 
-![demo](.gif)
+![demo](hw12.gif)
