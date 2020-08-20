@@ -1,0 +1,25 @@
+{
+  "name": "management_system",
+  "version": "1.0.0",
+  "description": "architect and build a solution for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlada2020/Management_System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlada2020/Management_System/issues"
+  },
+  "homepage": "https://github.com/vlada2020/Management_System#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
